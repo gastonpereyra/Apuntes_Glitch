@@ -17,10 +17,32 @@ Glitch es una plataforma para construir aplicaciones de __Node.js__ en la *nube*
 
 Pero no solo eso, también propicia el colaborar con otros, trabajo en Equipos. Descubrir, experimentar y aprender cosas nuevas.
 
+## Caracteristicas
+
+* usa __Node.js__
+* usa __Git__ 
+* puede sincronizarse con __Github__
+* puede sincronizarse con __Firebase__
+* Se pueden armar Equipos sin limite de participantes
+
 ## Registro
 
 No es necesario para empezar, se puede crear un proyecto y empezar a codear de manera Anonima, pero es mejor registrarse para tener mas opciones.
 Se puede registrar con OAuth de *Facebook*, *Github* o *email*.
+
+## Limitaciones
+
+No todo es color de rosas, hay limitaciones.
+
+* De manera Anonima, los proyectos se mantienen solo 5 dias
+* 512mb RAM
+* 200mb espacio en el disco + 512mb en `assets`, sin contar los modulos de Node y en `/tmp `
+* después de 5 minutos inactivo, el proyecto entra en estado de *dormir* y al volver usarse se reactiva.
+* despues de 12 horas de uso continuo, el proyecto se *para*, luego en el proximo request se reactiva.
+* 4000 request por hora.
+
+Todavia no por estar en Beta:
+* Maximo de 5 proyectos por Equipo, luego hay que pagar.
 
 ## App de Otros
 
@@ -41,10 +63,6 @@ Abajo de la Tarjeta es un visión rápida de la App
 
 Aca podemos pasar de ver como funciona la App al editor, o ambos. También podemos darle a "Remix" o añadirlo a una Colección propia.
 
-## Remix ?
-
-Remix es una forma de "Fork". Copiar el proyecto y pasar a editarlo uno, como propio.
-
 ## Empezamos ?
 
 Podemos empezar de varias maneras pero Glitch nos ofrece 3 rápidas y basicas.
@@ -53,10 +71,28 @@ Podemos empezar de varias maneras pero Glitch nos ofrece 3 rápidas y basicas.
 
 En la página principal, hacia la derecha, tenemos un par de botones, hacemos click en `New Proyect`
 
-<img src="https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/imagenes/Glitch_05.png" width="900">
+<img src="https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/imagenes/Glitch_05.png">
 
-Estas 3 formas basicas son:
-* una pagina simple, el famoso "Hello World", con lo minimo de Node cargado.
-* un boilerplate de **Express**, una app sencilla usando Express.
-* un boilerplate con **SQLite**,
+Estas 5 formas.
 
+### hello-webpage
+
+Un servidor estatico, `index.html`, listo para agregar mas HTML, CSS o JS.
+
+### hello-express
+
+Inicia un boilerplate de una app con Express tanto con un Front-end como con el Back-end. Listo para seguir adelante.
+
+#### hello-sqlite
+
+Es el hello-express pero con SQLite.
+
+### Empezar con Git
+
+<img src="https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/imagenes/Glitch_07.png">
+
+En un proyecto ya empezado se puede elegir empezar otro nuevo, y aqui se suma la posibilidad de elegir clonar un repositorio que use Git, ya sea **gitHub**, **gitLab** o **bitBucket**
+
+### Remix
+
+Buscando otro proyecto, por ejemplo un Boilerplate de React o Vue, y darle Remix, se copia el proyecto SALVO  el archivo `.env` y los `.data`. Es una suerte de `Fork` de Github.
