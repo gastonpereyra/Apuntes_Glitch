@@ -86,5 +86,5 @@ Algunas apps para empezar remixando
 
 - - - -
 [<kbd>Inicio</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/README.md)
-[<kbd>Anterior</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/contenido/1/empezar.md)
+[<kbd>Anterior</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/contenido/0/explorar.md)
 [<kbd>Siguiente</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/contenido/1/equipos.md)
