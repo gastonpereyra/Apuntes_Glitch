@@ -31,4 +31,4 @@ Todavia no por estar en Beta:
 
 - - - -
 [<kbd>Inicio</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/README.md)
-[<kbd>Siguiente</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/contenido/0/OtrasApps.md)
+[<kbd>Siguiente</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/contenido/0/explorar.md)
