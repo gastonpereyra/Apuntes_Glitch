@@ -61,4 +61,4 @@ Glitch otorga una herramienta con datos y estadisticas de las apps.
 - - - -
 [<kbd>Inicio</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/README.md)
 [<kbd>Anterior</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/contenido/0/explorar.md)
-[<kbd>Siguiente</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/contenido/1/equipos.md)
+[<kbd>Siguiente</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/contenido/2/editor.md)
