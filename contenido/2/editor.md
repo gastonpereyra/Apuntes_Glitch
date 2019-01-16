@@ -65,6 +65,11 @@ También podemos ayudar, en la página principal nos aparecerá un cartel como e
 
 <img src="https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/imagenes/Glitch_17.png">
 
+## NPM
+
+<img src="https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/imagenes/Glitch_28.png">
+
+Una función interesante es que en el `package.json` tenemos un boton que nos permite ni mas ni menos que buscar en **npm** y agregar los modulos que necesitemos a nuestras dependencias.
 
 - - - -
 [<kbd>Inicio</kbd>](https://github.com/gastonpereyra/Apuntes_Glitch/blob/master/README.md)
